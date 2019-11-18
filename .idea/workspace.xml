@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b1623c7a-e91c-4e08-9ba9-cc89804e4f15" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="b1623c7a-e91c-4e08-9ba9-cc89804e4f15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/com/niubi/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niubi/Test.java" afterDir="false" />
+>>>>>>> 55e8a9c108954597ba962bf887631435a91dd628
+    </list>
+>>>>>>> 208c0ed346ac318160f15b341447d5aec06363f8
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +32,19 @@
         <entry file="file://$PROJECT_DIR$/src/com/niubi/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
+<<<<<<< HEAD
               <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+=======
+<<<<<<< HEAD
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+              </folding>
+=======
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+>>>>>>> 55e8a9c108954597ba962bf887631435a91dd628
+>>>>>>> 208c0ed346ac318160f15b341447d5aec06363f8
             </state>
           </provider>
         </entry>
@@ -79,6 +101,10 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+>>>>>>> 55e8a9c108954597ba962bf887631435a91dd628
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -86,7 +112,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../helloGitProject" />
+>>>>>>> 55e8a9c108954597ba962bf887631435a91dd628
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -116,7 +146,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574046786425</updated>
+<<<<<<< HEAD
+      <workItem from="1574046788156" duration="677000" />
+      <workItem from="1574047779776" duration="387000" />
+=======
       <workItem from="1574046788156" duration="294000" />
+<<<<<<< HEAD
       <workItem from="1574047750768" duration="895000" />
     </task>
     <task id="LOCAL-00001" summary="asan 提交到本地库1次">
@@ -145,12 +180,36 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1189000" />
+=======
+      <workItem from="1574047750768" duration="61000" />
+>>>>>>> 55e8a9c108954597ba962bf887631435a91dd628
+    </task>
+    <task id="LOCAL-00001" summary="初次放入本地库helloGitProject">
+      <created>1574047262770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574047262770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="1064000" />
+=======
+    <option name="totallyTimeSpent" value="355000" />
+>>>>>>> 55e8a9c108954597ba962bf887631435a91dd628
+>>>>>>> 208c0ed346ac318160f15b341447d5aec06363f8
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642398" />
+=======
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.253212" />
+>>>>>>> 55e8a9c108954597ba962bf887631435a91dd628
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -185,15 +244,32 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="asan 提交到本地库1次" />
     <MESSAGE value="asan 提交noniubi" />
     <option name="LAST_COMMIT_MESSAGE" value="asan 提交noniubi" />
+=======
+    <MESSAGE value="初次放入本地库helloGitProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次放入本地库helloGitProject" />
+>>>>>>> 208c0ed346ac318160f15b341447d5aec06363f8
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/niubi/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
+<<<<<<< HEAD
           <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+=======
+<<<<<<< HEAD
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+=======
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+>>>>>>> 55e8a9c108954597ba962bf887631435a91dd628
+>>>>>>> 208c0ed346ac318160f15b341447d5aec06363f8
         </state>
       </provider>
     </entry>
